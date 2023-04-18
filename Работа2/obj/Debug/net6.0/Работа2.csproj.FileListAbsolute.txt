@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\bin\Debug\net6.0\Работа2.exe
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\bin\Debug\net6.0\Работа2.deps.json
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\bin\Debug\net6.0\Работа2.runtimeconfig.json
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\bin\Debug\net6.0\Работа2.dll
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\bin\Debug\net6.0\Работа2.pdb
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\Работа2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\Работа2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\Работа2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\Работа2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\Работа2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\Работа2.dll
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\refint\Работа2.dll
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\Работа2.pdb
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\Работа2.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Домашняяработа_C#_2\Работа2\obj\Debug\net6.0\ref\Работа2.dll
